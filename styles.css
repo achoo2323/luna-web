@@ -1,0 +1,31 @@
+body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: palevioletred;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    color:lightcoral;
+    text-decoration:underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    padding: 10px;
+    background-color: whitesmoke;
+    display:inline-block;
+}
+
+.title {
+    color: blue;
+    font-size: large;
+    font-weight: 500;
+    font: message-box;
+}
