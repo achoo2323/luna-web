@@ -13,11 +13,11 @@ h1 {
 
 h3 {
     color:lightcoral;
-    text-decoration:underline;
+    text-decoration: wavy;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li {
+.main-title, li {
     padding: 10px;
     background-color: whitesmoke;
     display:inline-block;
@@ -28,4 +28,17 @@ li {
     font-size: large;
     font-weight: 500;
     font: message-box;
+}
+
+#main-button {
+    font-weight: bold;
+    background: rgb(143, 198, 239);
+    font-size: 20px;
+}
+
+#subtitle {
+    font-family: Monaco, "Lucida Console", Monospace;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 1;
 }
